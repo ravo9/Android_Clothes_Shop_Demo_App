@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Clothes Shop</string>
+
+    <string name="loading_items">Loading Items…</string>
+    <string name="network_problem_check_internet_connection">Network problem. Check Internet connection please.</string>
+    <string name="try_again">Try again</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_order">Change order</string>
+    <string name="close">Close</string>
+    <string name="cart">Cart</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="remove">Remove</string>
+
+    <string name="item_added_to_cart">Item added to cart!</string>
+    <string name="item_added_to_wishlist">Item added to wishlist!</string>
+    <string name="item_removed">Item removed!</string>
+    <string name="error_item_couldnt_be_added">Error. Item couldn\'t be added.</string>
+    <string name="error_item_couldnt_be_removed">Error. Item couldn\'t be removed.</string>
+
+    <!--    URL given by the company has been removed due to the data protection rules.-->
+    <!--    Please contact Rafal Ozog (rafalozog@gmail.com) for more information.-->
+    <string name="base_server_url"></string>
+    <string name="base_search_url">https://www.google.com/search?q=</string>
+
+</resources>
